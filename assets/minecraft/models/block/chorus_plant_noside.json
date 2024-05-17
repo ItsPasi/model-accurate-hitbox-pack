@@ -1,0 +1,17 @@
+{
+	"credit": "Made with Blockbench",
+	"ambientocclusion": false,
+	"textures": {
+		"particle": "block/chorus_plant",
+		"inside": "block/chorus_plant"
+	},
+	"elements": [
+		{
+			"from": [3, 3, 3.01],
+			"to": [13, 13, 12.01],
+			"faces": {
+				"north": {"uv": [3, 4, 13, 14], "texture": "#inside"}
+			}
+		}
+	]
+}

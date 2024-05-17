@@ -1,0 +1,33 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"particle": "#wall"
+	},
+	"elements": [
+		{
+			"name": "Center post",
+			"from": [4, 0, 4],
+			"to": [12, 16, 12],
+			"faces": {
+				"north": {"uv": [4, 0, 12, 16], "texture": "#wall"},
+				"east": {"uv": [4, 0, 12, 16], "texture": "#wall"},
+				"south": {"uv": [4, 0, 12, 16], "texture": "#wall"},
+				"west": {"uv": [4, 0, 12, 16], "texture": "#wall"},
+				"up": {"uv": [4, 4, 12, 12], "texture": "#wall", "cullface": "up"},
+				"down": {"uv": [4, 4, 12, 12], "texture": "#wall", "cullface": "down"}
+			}
+		},
+		{
+			"name": "Center post",
+			"from": [4.01, 16, 4.01],
+			"to": [11.99, 24, 11.99],
+			"faces": {
+				"north": {"uv": [4.01, 0, 11.99, 8], "texture": "#wall"},
+				"east": {"uv": [4.01, 0, 11.99, 8], "texture": "#wall"},
+				"south": {"uv": [4.01, 0, 11.99, 8], "texture": "#wall"},
+				"west": {"uv": [4.01, 0, 11.99, 8], "texture": "#wall"},
+				"up": {"uv": [4.01, 4.01, 11.99, 11.99], "texture": "#wall", "cullface": "up"}
+			}
+		}
+	]
+}

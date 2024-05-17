@@ -1,0 +1,23 @@
+{
+	"credit": "Made with Blockbench",
+	"ambientocclusion": false,
+	"textures": {
+		"1": "block/lily_pad_side",
+		"particle": "block/lily_pad",
+		"texture": "block/lily_pad"
+	},
+	"elements": [
+		{
+			"from": [1, 0, 1],
+			"to": [15, 1.5, 15],
+			"faces": {
+				"north": {"uv": [0.25, 0.25, 0.75, 0.75], "texture": "#1"},
+				"east": {"uv": [1.25, 0.25, 1.75, 0.75], "texture": "#1"},
+				"south": {"uv": [2.25, 0.25, 2.75, 0.75], "texture": "#1"},
+				"west": {"uv": [3.25, 0.25, 3.75, 0.75], "texture": "#1"},
+				"up": {"uv": [1, 1, 15, 15], "texture": "#texture", "tintindex": 0},
+				"down": {"uv": [1, 1, 15, 15], "texture": "#texture", "tintindex": 0}
+			}
+		}
+	]
+}

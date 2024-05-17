@@ -1,0 +1,21 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:block/pointed_dripstone",
+	"textures": {
+		"cross": "block/pointed_dripstone_down_base"
+	},
+	"elements": [
+		{
+			"from": [2, 0, 2],
+			"to": [14, 16, 14],
+			"faces": {
+				"north": {"uv": [2, 0, 14, 16], "texture": "#cross"},
+				"east": {"uv": [2, 0, 14, 16], "texture": "#cross"},
+				"south": {"uv": [2, 0, 14, 16], "texture": "#cross"},
+				"west": {"uv": [2, 0, 14, 16], "texture": "#cross"},
+				"up": {"uv": [2, 0, 14, 12], "texture": "#cross", "cullface": "up"},
+				"down": {"uv": [2, 4, 14, 16], "texture": "#cross", "cullface": "down"}
+			}
+		}
+	]
+}

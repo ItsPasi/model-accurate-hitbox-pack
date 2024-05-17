@@ -1,0 +1,45 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:block/custom_fence_side_east",
+	"textures": {
+		"texture": "block/bamboo_fence"
+	},
+	"elements": [
+		{
+			"name": "lower bar",
+			"from": [7, 2, 0],
+			"to": [9, 6, 6],
+			"faces": {
+				"north": {"uv": [11, 4, 13, 8], "texture": "#texture"},
+				"east": {"uv": [7, 4, 13, 8], "texture": "#texture"},
+				"west": {"uv": [4, 4, 10, 8], "texture": "#texture"},
+				"up": {"uv": [13, 7, 15, 13], "texture": "#texture"},
+				"down": {"uv": [13, 10, 15, 16], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "top bar",
+			"from": [7, 10, 0],
+			"to": [9, 14, 6],
+			"faces": {
+				"north": {"uv": [11, 4, 13, 8], "texture": "#texture"},
+				"east": {"uv": [7, 4, 13, 8], "texture": "#texture"},
+				"west": {"uv": [4, 4, 10, 8], "texture": "#texture"},
+				"up": {"uv": [13, 7, 15, 13], "texture": "#texture"},
+				"down": {"uv": [13, 10, 15, 16], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "top bar",
+			"from": [7.01, 18.01, 0.01],
+			"to": [8.99, 21.99, 6],
+			"faces": {
+				"north": {"uv": [13, 4, 11, 8], "texture": "#texture"},
+				"east": {"uv": [7, 4, 13, 7.98], "texture": "#texture"},
+				"west": {"uv": [4, 4, 10, 7.98], "texture": "#texture"},
+				"up": {"uv": [13.25, 7, 14.98, 13], "texture": "#texture"},
+				"down": {"uv": [13, 10, 14.98, 16], "texture": "#texture"}
+			}
+		}
+	]
+}

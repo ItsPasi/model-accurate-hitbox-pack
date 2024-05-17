@@ -1,0 +1,131 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:block/cross",
+	"textures": {
+		"cross": "block/medium_amethyst_bud"
+	},
+	"elements": [
+		{
+			"from": [8, 0, 0.8],
+			"to": [8, 16, 15.2],
+			"shade": false,
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 8, 8], "rescale": true},
+			"faces": {
+				"east": {"uv": [0, 0, 16, 16], "texture": "#cross"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#cross"}
+			}
+		},
+		{
+			"from": [0.8, 0, 8],
+			"to": [15.2, 16, 8],
+			"shade": false,
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 8, 8], "rescale": true},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#cross"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#cross"}
+			}
+		},
+		{
+			"from": [3, 0, 3],
+			"to": [13, 4, 4],
+			"faces": {
+				"north": {"uv": [3, 12, 13, 16], "texture": "#cross"},
+				"east": {"uv": [12, 12, 13, 16], "texture": "#cross"},
+				"west": {"uv": [3, 12, 4, 16], "texture": "#cross"},
+				"up": {"uv": [3, 12, 13, 13], "texture": "#cross"},
+				"down": {"uv": [3, 15, 13, 16], "texture": "#cross", "cullface": "down"}
+			}
+		},
+		{
+			"from": [3, 0, 4],
+			"to": [13, 4, 5],
+			"faces": {
+				"east": {"uv": [11, 12, 12, 16], "texture": "#cross"},
+				"west": {"uv": [4, 12, 5, 16], "texture": "#cross"},
+				"up": {"uv": [3, 13, 13, 14], "texture": "#cross"},
+				"down": {"uv": [3, 14, 13, 15], "texture": "#cross", "cullface": "down"}
+			}
+		},
+		{
+			"from": [3, 0, 5],
+			"to": [13, 4, 6],
+			"faces": {
+				"east": {"uv": [10, 12, 11, 16], "texture": "#cross"},
+				"west": {"uv": [5, 12, 6, 16], "texture": "#cross"},
+				"up": {"uv": [13, 15, 3, 14], "texture": "#cross"},
+				"down": {"uv": [3, 13, 13, 14], "texture": "#cross", "cullface": "down"}
+			}
+		},
+		{
+			"from": [3, 0, 6],
+			"to": [13, 4, 7],
+			"faces": {
+				"east": {"uv": [9, 12, 10, 16], "texture": "#cross"},
+				"west": {"uv": [6, 12, 7, 16], "texture": "#cross"},
+				"up": {"uv": [3, 14, 13, 15], "texture": "#cross"},
+				"down": {"uv": [3, 12, 13, 13], "texture": "#cross", "cullface": "down"}
+			}
+		},
+		{
+			"from": [3, 0, 7],
+			"to": [13, 4, 8],
+			"faces": {
+				"east": {"uv": [8, 12, 9, 16], "texture": "#cross"},
+				"west": {"uv": [7, 12, 8, 16], "texture": "#cross"},
+				"up": {"uv": [13, 15, 3, 16], "texture": "#cross"},
+				"down": {"uv": [3, 14, 13, 15], "texture": "#cross", "cullface": "down"}
+			}
+		},
+		{
+			"from": [3, 0, 8],
+			"to": [13, 4, 9],
+			"faces": {
+				"east": {"uv": [7, 12, 8, 16], "texture": "#cross"},
+				"west": {"uv": [8, 12, 9, 16], "texture": "#cross"},
+				"up": {"uv": [3, 16, 13, 15], "texture": "#cross"},
+				"down": {"uv": [3, 13, 13, 14], "texture": "#cross", "cullface": "down"}
+			}
+		},
+		{
+			"from": [3, 0, 9],
+			"to": [13, 4, 10],
+			"faces": {
+				"east": {"uv": [6, 12, 7, 16], "texture": "#cross"},
+				"west": {"uv": [9, 12, 10, 16], "texture": "#cross"},
+				"up": {"uv": [13, 14, 3, 15], "texture": "#cross"},
+				"down": {"uv": [3, 15, 13, 16], "texture": "#cross", "cullface": "down"}
+			}
+		},
+		{
+			"from": [3, 0, 10],
+			"to": [13, 4, 11],
+			"faces": {
+				"east": {"uv": [5, 12, 6, 16], "texture": "#cross"},
+				"west": {"uv": [10, 12, 11, 16], "texture": "#cross"},
+				"up": {"uv": [3, 14, 13, 15], "texture": "#cross"},
+				"down": {"uv": [3, 12, 13, 13], "texture": "#cross", "cullface": "down"}
+			}
+		},
+		{
+			"from": [3, 0, 11],
+			"to": [13, 4, 12],
+			"faces": {
+				"east": {"uv": [4, 12, 5, 16], "texture": "#cross"},
+				"west": {"uv": [11, 12, 12, 16], "texture": "#cross"},
+				"up": {"uv": [3, 13, 13, 14], "texture": "#cross"},
+				"down": {"uv": [3, 14, 13, 15], "texture": "#cross", "cullface": "down"}
+			}
+		},
+		{
+			"from": [3, 0, 12],
+			"to": [13, 4, 13],
+			"faces": {
+				"east": {"uv": [3, 12, 4, 16], "texture": "#cross"},
+				"south": {"uv": [3, 12, 13, 16], "texture": "#cross"},
+				"west": {"uv": [12, 12, 13, 16], "texture": "#cross"},
+				"up": {"uv": [13, 12, 3, 13], "texture": "#cross"},
+				"down": {"uv": [3, 13, 13, 14], "texture": "#cross", "cullface": "down"}
+			}
+		}
+	]
+}
