@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://i.imgur.com/S1i68nw.png" />
+    <img src="https://i.imgur.com/Li26llS.png" />
     <h1 align="center">Model Accurate Hitbox Pack</h1>
 </p>
 
