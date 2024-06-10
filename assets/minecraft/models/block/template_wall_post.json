@@ -20,13 +20,13 @@
 		{
 			"name": "Center post",
 			"from": [4.01, 16, 4.01],
-			"to": [11.99, 24, 11.99],
+			"to": [11.99, 23.99, 11.99],
 			"faces": {
 				"north": {"uv": [4.01, 0, 11.99, 8], "texture": "#wall"},
 				"east": {"uv": [4.01, 0, 11.99, 8], "texture": "#wall"},
 				"south": {"uv": [4.01, 0, 11.99, 8], "texture": "#wall"},
 				"west": {"uv": [4.01, 0, 11.99, 8], "texture": "#wall"},
-				"up": {"uv": [4.01, 4.01, 11.99, 11.99], "texture": "#wall", "cullface": "up"}
+				"up": {"uv": [4.01, 4.01, 11.99, 11.99], "texture": "#wall"}
 			}
 		}
 	]

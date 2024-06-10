@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"parent": "block/block",
 	"textures": {
-		"particle": "block/big_dripleaf_top",
-		"top": "block/big_dripleaf_top",
+		"particle": "block/big_dripleaf_top_partial",
+		"top": "block/big_dripleaf_top_partial",
 		"stem": "block/big_dripleaf_stem",
 		"side": "block/big_dripleaf_side",
 		"tip": "block/big_dripleaf_tip"
