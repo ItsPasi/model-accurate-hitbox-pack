@@ -11,6 +11,34 @@
 
 The resourcepack can be downloaded on [Modrinth](https://modrinth.com/resourcepack/model-accurate-hitbox-pack)
 
+## Models
+
+- amethyst bud/cluster
+- azalea bush
+- bamboo
+- bell
+- big dripleaf
+- brewing stand
+- campfire
+- candle
+- chorus plant/flower
+- dragon egg
+- end rod
+- fence
+- fence gate
+- iron bar (flicker fix)
+- ladder
+- lectern
+- lightning rod
+- lily pad
+- pointed dripstone
+- powder snow (only texture)
+- sea pickle
+- soul soil (only texture)
+- turtle egg
+- wall
+- chain
+
 ## Screenshots
 
 ![Part 1](https://i.imgur.com/gXm1Rgb.png)
