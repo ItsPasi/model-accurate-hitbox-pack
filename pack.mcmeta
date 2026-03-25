@@ -1,7 +1,18 @@
 {
     "pack": {
         "pack_format": 15,
-		"supported_formats": [15, 32],
-        "description": "§6By ItsPasi"
-    }
+		"min_format": 15,
+		"max_format": 84,
+		"supported_formats": [15, 84],
+        "description": "§6By Pasi"
+    },
+	"overlays": {
+		"entries": [
+			{
+				"min_format": 84,
+				"max_format": 2147483647,
+				"directory": "overlay_84"
+			}
+		]
+	}
 }
