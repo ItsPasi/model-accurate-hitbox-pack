@@ -1,15 +1,11 @@
 <p align="center">
     <img src="https://i.imgur.com/Li26llS.png" />
-    <h1 align="center">Model Accurate Hitbox Pack</h1>
+    <h1>Model Accurate Hitbox Pack</h1>
 </p>
 
-<p align="center">
+<p>
     This pack changes models to more closely align with their respected hitboxes. The goal is to achieve this while staying true to the original appearance.
 </p>
-
-## Download
-
-The resourcepack can be downloaded on [Modrinth](https://modrinth.com/resourcepack/model-accurate-hitbox-pack)
 
 ## Models
 
@@ -26,7 +22,8 @@ The resourcepack can be downloaded on [Modrinth](https://modrinth.com/resourcepa
 - end rod
 - fence
 - fence gate
-- iron bar (flicker fix)
+- iron/copper bar (flicker fix)
+- chain
 - ladder
 - lectern
 - lightning rod
@@ -37,10 +34,10 @@ The resourcepack can be downloaded on [Modrinth](https://modrinth.com/resourcepa
 - soul soil (only texture)
 - turtle egg
 - wall
-- chain
+- vine (only texture)
+- copper golem statue
 
 ## Screenshots
 
-![Part 1](https://i.imgur.com/gXm1Rgb.png)
-
-![Part 2](https://i.imgur.com/sOYtHPW.png)
+<img width="2560" height="1441" alt="Part 1" src="https://github.com/user-attachments/assets/db59aa6d-6767-4829-b5b7-a6d80df57c4e" />
+<img width="2560" height="1441" alt="Part 2" src="https://github.com/user-attachments/assets/ded03978-5110-4092-a5cc-2d5b9793872b" />
