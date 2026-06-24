@@ -40,4 +40,4 @@
 
 ## Screenshots
 
-<img width="2560" height="1440" alt="2026-06-24_22 11 55" src="https://github.com/user-attachments/assets/e0b67e3e-04ed-436f-bd18-d846305ee1a4" />
+<img width="2560" height="1440" alt="2026-06-24_22 11 55" src="https://github.com/user-attachments/assets/5084e953-49f5-43b5-ac79-7fd0cde0f896" />
