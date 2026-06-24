@@ -1,4 +1,5 @@
 {
+	"format_version": "1.21.11",
 	"credit": "Made with Blockbench",
 	"textures": {
 		"particle": "#wall"
@@ -22,10 +23,10 @@
 			"from": [4.01, 16, 4.01],
 			"to": [11.99, 23.99, 11.99],
 			"faces": {
-				"north": {"uv": [4.01, 0, 11.99, 8], "texture": "#wall"},
-				"east": {"uv": [4.01, 0, 11.99, 8], "texture": "#wall"},
-				"south": {"uv": [4.01, 0, 11.99, 8], "texture": "#wall"},
-				"west": {"uv": [4.01, 0, 11.99, 8], "texture": "#wall"},
+				"north": {"uv": [4.01, 8, 11.99, 16], "texture": "#wall"},
+				"east": {"uv": [4.01, 8, 11.99, 16], "texture": "#wall"},
+				"south": {"uv": [4.01, 8, 11.99, 16], "texture": "#wall"},
+				"west": {"uv": [4.01, 8, 11.99, 16], "texture": "#wall"},
 				"up": {"uv": [4.01, 4.01, 11.99, 11.99], "texture": "#wall"}
 			}
 		}
