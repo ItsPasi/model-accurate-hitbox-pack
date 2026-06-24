@@ -1,0 +1,79 @@
+{
+  "credit": "Made with Blockbench",
+  "parent": "minecraft:block/pointed_dripstone",
+  "textures": {
+    "cross": "minecraft:block/sulfur_spike_up_base"
+  },
+  "elements": [
+    {
+      "from": [
+        2,
+        0,
+        2
+      ],
+      "to": [
+        14,
+        16,
+        14
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            2,
+            16,
+            14,
+            0
+          ],
+          "texture": "#cross"
+        },
+        "east": {
+          "uv": [
+            2,
+            16,
+            14,
+            0
+          ],
+          "texture": "#cross"
+        },
+        "south": {
+          "uv": [
+            2,
+            16,
+            14,
+            0
+          ],
+          "texture": "#cross"
+        },
+        "west": {
+          "uv": [
+            2,
+            16,
+            14,
+            0
+          ],
+          "texture": "#cross"
+        },
+        "up": {
+          "uv": [
+            2,
+            16,
+            14,
+            4
+          ],
+          "texture": "#cross",
+          "cullface": "up"
+        },
+        "down": {
+          "uv": [
+            2,
+            12,
+            14,
+            0
+          ],
+          "texture": "#cross",
+          "cullface": "down"
+        }
+      }
+    }
+  ]
+}

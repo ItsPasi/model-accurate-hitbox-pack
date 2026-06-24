@@ -26,7 +26,7 @@
 			"to": [9, 0.025, 7],
 			"faces": {
 				"up": {"uv": [7, 0, 9, 7], "texture": "#bars"},
-				"down": {"uv": [9, 0, 7, 7], "texture": "#bars"}
+				"down": {"uv": [9, 0, 7, 7], "texture": "#bars", "cullface": "down"}
 			}
 		},
 		{
@@ -34,7 +34,7 @@
 			"to": [9, 15.965, 7],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 9, 8]},
 			"faces": {
-				"up": {"uv": [7, 0, 9, 7], "texture": "#bars"},
+				"up": {"uv": [7, 0, 9, 7], "texture": "#bars", "cullface": "up"},
 				"down": {"uv": [9, 0, 7, 7], "texture": "#bars"}
 			}
 		}

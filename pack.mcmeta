@@ -2,8 +2,8 @@
     "pack": {
         "pack_format": 15,
 		"min_format": 15,
-		"max_format": 84,
-		"supported_formats": [15, 84],
+		"max_format": 88,
+		"supported_formats": [15, 88],
         "description": "§6By Pasi"
     },
 	"overlays": {

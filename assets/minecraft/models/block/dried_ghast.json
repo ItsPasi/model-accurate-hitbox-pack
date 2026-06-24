@@ -1,0 +1,87 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "block/block",
+	"elements": [
+		{
+			"name": "body",
+			"from": [3, 0, 3],
+			"to": [13, 10, 13],
+			"rotation": {"angle": 0, "axis": "y", "origin": [11, 0, 11]},
+			"faces": {
+				"north": {"uv": [0, 0, 10, 10], "texture": "#north"},
+				"east": {"uv": [0, 0, 10, 10], "texture": "#east"},
+				"south": {"uv": [0, 0, 10, 10], "texture": "#south"},
+				"west": {"uv": [0, 0, 10, 10], "texture": "#west"},
+				"up": {"uv": [0, 0, 10, 10], "rotation": 180, "texture": "#top"},
+				"down": {"uv": [10, 0, 0, 10], "texture": "#bottom", "cullface": "down"}
+			}
+		},
+		{
+			"name": "left_tent_1",
+			"from": [0, 3.2, 5],
+			"to": [3, 3.2, 7],
+			"rotation": {"angle": 22.5, "axis": "z", "origin": [8, 2.2, 13]},
+			"faces": {
+				"up": {"uv": [2.5, 1.5, 1.5, 0], "rotation": 90, "texture": "#tentacles"},
+				"down": {"uv": [2.5, 1.5, 3.5, 0], "rotation": 90, "texture": "#tentacles"}
+			}
+		},
+		{
+			"name": "left_tent_2",
+			"from": [0, 3.2, 9],
+			"to": [3, 3.2, 11],
+			"rotation": {"angle": 22.5, "axis": "z", "origin": [8, 2.2, 17]},
+			"faces": {
+				"up": {"uv": [2.5, 3.5, 1.5, 2], "rotation": 90, "texture": "#tentacles"},
+				"down": {"uv": [2.5, 3.5, 3.5, 2], "rotation": 90, "texture": "#tentacles"}
+			}
+		},
+		{
+			"name": "right_tent_1",
+			"from": [13, 3.2, 5],
+			"to": [16, 3.2, 7],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [8, 2.2, 13]},
+			"faces": {
+				"up": {"uv": [2.5, 6, 1.5, 7.5], "rotation": 90, "texture": "#tentacles"},
+				"down": {"uv": [2.5, 6, 3.5, 7.5], "rotation": 90, "texture": "#tentacles"}
+			}
+		},
+		{
+			"name": "right_tent_2",
+			"from": [13, 3.2, 9],
+			"to": [16, 3.2, 11],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [8, 2.2, 17]},
+			"faces": {
+				"up": {"uv": [2.5, 4, 1.5, 5.5], "rotation": 90, "texture": "#tentacles"},
+				"down": {"uv": [2.5, 4, 3.5, 5.5], "rotation": 90, "texture": "#tentacles"}
+			}
+		},
+		{
+			"name": "back_tent_2",
+			"from": [9, 0.7, 12.7],
+			"to": [11, 0.7, 15.7],
+			"rotation": {"angle": 22.5, "axis": "x", "origin": [10.5, 0.2, 14.2]},
+			"faces": {
+				"up": {"uv": [6, 2.5, 7.5, 1.5], "rotation": 90, "texture": "#tentacles"},
+				"down": {"uv": [7.5, 1.5, 9, 2.5], "rotation": 270, "texture": "#tentacles"}
+			}
+		},
+		{
+			"name": "back_tent_1",
+			"from": [5, 0.7, 12.7],
+			"to": [7, 0.7, 15.7],
+			"rotation": {"angle": 22.5, "axis": "x", "origin": [5.5, 0.2, 14.2]},
+			"faces": {
+				"up": {"uv": [6, 1, 7.5, 0], "rotation": 90, "texture": "#tentacles"},
+				"down": {"uv": [7.5, 0, 9, 1], "rotation": 270, "texture": "#tentacles"}
+			}
+		}
+	],
+	"display": {
+		"gui": {
+			"rotation": [30, 225, 0],
+			"translation": [0.4, 1.6, 0],
+			"scale": [0.8, 0.8, 0.8]
+		}
+	}
+}

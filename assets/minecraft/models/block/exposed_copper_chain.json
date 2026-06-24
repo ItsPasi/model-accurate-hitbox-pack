@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"parent": "block/block",
 	"textures": {
-		"particle": "block/iron_chain",
-		"all": "block/iron_chain"
+		"particle": "block/exposed_copper_chain",
+		"all": "block/exposed_copper_chain"
 	},
 	"elements": [
 		{

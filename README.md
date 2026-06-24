@@ -32,6 +32,7 @@
 - powder snow (only texture)
 - sea pickle
 - soul soil (only texture)
+- sulfur spike
 - turtle egg
 - wall
 - vine (only texture)
