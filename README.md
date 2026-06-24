@@ -40,5 +40,4 @@
 
 ## Screenshots
 
-<img width="2560" height="1441" alt="Part 1" src="https://github.com/user-attachments/assets/db59aa6d-6767-4829-b5b7-a6d80df57c4e" />
-<img width="2560" height="1441" alt="Part 2" src="https://github.com/user-attachments/assets/ded03978-5110-4092-a5cc-2d5b9793872b" />
+<img width="2560" height="1440" alt="2026-06-24_22 11 55" src="https://github.com/user-attachments/assets/e0b67e3e-04ed-436f-bd18-d846305ee1a4" />
